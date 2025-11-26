@@ -1,0 +1,7 @@
+{
+  "name": "Siam Wanderer",
+  "description": "A Thai-style hand-drawn 6-day Bangkok itinerary and expense tracker PWA.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
