@@ -1,0 +1,21 @@
+{
+  "name": "Siam Wanderer: Bangkok Guide",
+  "short_name": "SiamWanderer",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FFFBEB",
+  "theme_color": "#F59E0B",
+  "description": "A Thai-style hand-drawn 6-day Bangkok itinerary and expense tracker.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3069/3069172.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
